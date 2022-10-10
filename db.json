@@ -17,5 +17,6 @@
   "message": [
     {"id": 1, "text": "Lorem Ipsum"},
     {"id": 2, "text": "Lorem Galius"}
-  ]
+  ],
+  "images": []
 }
