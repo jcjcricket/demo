@@ -7,6 +7,6 @@
 Fork it and change `db.json` values or create a repo with a `db.json` file.
 
 
-Create a repository on GitHub (<your-username>/<your-repo>)
-Create a db.json file
-Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
+1.Create a repository on GitHub (<your-username>/<your-repo>)
+2.Create a db.json file
+3.Visit https://my-json-server.typicode.com/jcjcricket/json-fake-server/ to access your server
