@@ -23,6 +23,6 @@
     {"id": 1, "src": "fjdsjfjosoefsjfjisdjfidsjfjsdf"}
 ]
   "products": [
-  {"id": 999, "name": "testName", "img": "testImgURL"}
+  {"id": "999", "name": "testName", "img": "testImgURL"}
   ]
 }
