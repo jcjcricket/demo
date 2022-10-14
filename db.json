@@ -19,9 +19,7 @@
     {"id": 1, "text": "Lorem Ipsum"},
     {"id": 2, "text": "Lorem Galius"}
   ],
-  "images": [
-    {"id": 1, "src": "fjdsjfjosoefsjfjisdjfidsjfjsdf"}
-]
+
   "products": [
   {"id": "999", "name": "testName", "img": "testImgURL"}
   ]
